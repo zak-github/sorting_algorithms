@@ -1,3 +1,3 @@
-Best Case: O(n)      // When the array is already sorted
-Average Case: O(n^2)  // Considering all possible input arrays
-Worst Case: O(n^2)   // When the array is in reverse order
+O(n)
+O(n^2)
+O(n^2)
