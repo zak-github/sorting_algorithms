@@ -49,16 +49,10 @@ int main(void)
     list = create_listint(array, n);
     if (!list)
         return (1);
-
-    printf("Original list:\n");
     print_list(list);
-
-    printf("\nSorting list using Insertion Sort:\n");
+    printf("\n");
     insertion_sort_list(&list);
-
-    printf("\nSorted list:\n");
+    printf("\n");
     print_list(list);
-
     return (0);
 }
-
