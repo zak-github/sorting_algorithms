@@ -1,0 +1,6 @@
+/* 2-O */
+
+Best Case: O(n^2)    // When the array is sorted in descending order
+Average Case: O(n^2) // Considering all possible input arrays
+Worst Case: O(n^2)   // When the array is sorted in ascending order
+
