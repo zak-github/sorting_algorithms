@@ -1,0 +1,6 @@
+/* 1-O */
+
+Best Case: O(n)        // When the list is already sorted
+Average Case: O(n^2)    // Considering all possible input lists
+Worst Case: O(n^2)     // When the list is in reverse order
+
